@@ -1,0 +1,62 @@
+<template>
+        <div class="loader-38"></div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style scoped>
+
+    .loader-38 {
+	height: 0.1em;
+	width: 0.1em;
+	box-shadow: -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor;
+	animation: loader-38 6s infinite;
+    }
+
+    @keyframes loader-38 {
+        0% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor;
+        }
+        8.33% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor;
+        }
+        16.66% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor;
+        }
+        24.99% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        33.32% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor;
+        }
+        41.65% {
+            box-shadow: 0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor;
+        }
+        49.98% {
+            box-shadow: 0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor;
+        }
+        58.31% {
+            box-shadow: -0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        66.64% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        74.97% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        83.3% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, 0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        91.63% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor, -0.2em 0.2em 0 0.1em currentcolor;
+        }
+        100% {
+            box-shadow: -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor, -0.2em -0.2em 0 0.1em currentcolor;
+        }
+    }
+
+</style>
