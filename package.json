@@ -19,7 +19,7 @@
     "bootstrap-vue": "^2.6.0",
     "clone": "^2.1.2",
     "env-cmd": "^10.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nuxt": "^2.11.0",
     "nuxt-recaptcha": "^0.1.1",
     "recaptcha-v3": "^1.7.2",
