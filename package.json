@@ -20,7 +20,7 @@
     "clone": "^2.1.2",
     "env-cmd": "^10.1.0",
     "jquery": "^3.4.1",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "nuxt-recaptcha": "^0.1.1",
     "recaptcha-v3": "^1.7.2",
     "v-mask": "^2.1.0",
